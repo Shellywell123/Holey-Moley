@@ -1,5 +1,5 @@
 # [Holey-Moley](https://globalgamejam.org/2023/games/holey-moley-7)
-- Started 3pm Saturday last relase 4pm Sunday
+`Started 3pm Saturday last relase 4pm Sunday`
 Game made for 2023 Brighton Global Game Jam ["Sticky-Biscuits"](https://globalgamejam.org/2023/jam-sites/sticky-biscuits-brighton-ggj-2023) with the theme of "Roots"
 
 
