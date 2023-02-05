@@ -3,21 +3,23 @@
 Game made for 2023 Brighton Global Game Jam ["Sticky-Biscuits"](https://globalgamejam.org/2023/jam-sites/sticky-biscuits-brighton-ggj-2023) with the theme of "Roots"
 
 
-<a href="https://shellywell123.github.io/Grind-Boy/build/web/index.html">
+<a href="https://play.unity.com/u/shellywell123">
   <img src="https://github.com/Shellywell123/Holey-Moley/blob/main/screengrabs/gif_1.gif" width="400" />
 </a>
-<a href="https://shellywell123.github.io/Grind-Boy/build/web/index.html">
+<a href="https://play.unity.com/u/shellywell123">
   <img src="https://github.com/Shellywell123/Holey-Moley/blob/main/screengrabs/gif_2.gif" width="400" />
 </a>
-<a href="https://shellywell123.github.io/Grind-Boy/build/web/index.html">
+<a href="https://play.unity.com/u/shellywell123">
   <img src="https://github.com/Shellywell123/Holey-Moley/blob/main/screengrabs/gif_3.gif" width="400" />
 </a>
-<a href="https://shellywell123.github.io/Grind-Boy/build/web/index.html">
+<a href="https://play.unity.com/u/shellywell123">
   <img src="https://github.com/Shellywell123/Holey-Moley/blob/main/screengrabs/gif_4.gif" width="400" />
 </a>
 
 ## Play the Game
 
+[Play in Browser](<a href="https://play.unity.com/u/shellywell123">)\
+or\
 Download the [latest release](https://github.com/Shellywell123/Holey-Moley/releases), unzip it, run the `.exe`, get playing!
 
 ## Authors
