@@ -1,5 +1,5 @@
 # [Holey-Moley](https://globalgamejam.org/2023/games/holey-moley-7)
-Game made for 2023 Brighton Global Game Jam ["Sticky-Biscuits"](https://globalgamejam.org/2023/jam-sites/sticky-biscuits-brighton-ggj-2023)
+Game made for 2023 Brighton Global Game Jam ["Sticky-Biscuits"](https://globalgamejam.org/2023/jam-sites/sticky-biscuits-brighton-ggj-2023) with the theme of "Roots"
 
 
 <a href="https://shellywell123.github.io/Grind-Boy/build/web/index.html">
