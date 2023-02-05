@@ -23,4 +23,4 @@ Download the [latest release](https://github.com/Shellywell123/Holey-Moley/relea
 [Shellywell123](https://github.com/Shellywell123)\
 [Harry-Whorlow](https://github.com/harry-whorlow)\
 [Sudi](https://github.com/Sudini1412)\
-[Shazzeles]() (All the animations!)
+[Shazzles](https://anna0283.wixsite.com/website) (All the animations!)
