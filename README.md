@@ -18,7 +18,7 @@ Game made for 2023 Brighton Global Game Jam ["Sticky-Biscuits"](https://globalga
 
 ## Play the Game
 
-[Play in Browser](<a href="https://play.unity.com/u/shellywell123">)\
+[Play in Browser](https://play.unity.com/u/shellywell123)\
 or\
 Download the [latest release](https://github.com/Shellywell123/Holey-Moley/releases), unzip it, run the `.exe`, get playing!
 
