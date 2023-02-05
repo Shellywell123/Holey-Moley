@@ -20,10 +20,7 @@ Game made for 2023 Brighton Global Game Jam ["Sticky-Biscuits"](https://globalga
 Download the [latest release](https://github.com/Shellywell123/Holey-Moley/releases), unzip it, run the `.exe`, get playing!
 
 ## Authors
-```
 [Shellywell123](https://github.com/Shellywell123)
 [Harry-Whorlow](https://github.com/harry-whorlow)
 [Sudi](https://github.com/Sudini1412)
 [Shazzeles]() (All the animations!)
-
-```
