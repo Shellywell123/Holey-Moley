@@ -1,6 +1,6 @@
 # [Holey-Moley](https://globalgamejam.org/2023/games/holey-moley-7)
 `Started 3pm Saturday - finished 4pm Sunday`\
-Game made for 2023 Brighton Global Game Jam ["Sticky-Biscuits"](https://globalgamejam.org/2023/jam-sites/sticky-biscuits-brighton-ggj-2023) with the theme of "Roots"
+Game made for 2023 Brighton Global Game Jam ["Sticky-Biscuits"](https://globalgamejam.org/2023/jam-sites/sticky-biscuits-brighton-ggj-2023) with the theme of "Roots", made with Unity 2021.3.9f1
 
 
 <a href="https://play.unity.com/u/shellywell123">
