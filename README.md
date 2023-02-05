@@ -2,7 +2,18 @@
 Game made for 2023 Brighton Global Game Jam ["Sticky-Biscuits"](https://globalgamejam.org/2023/jam-sites/sticky-biscuits-brighton-ggj-2023)
 
 
-`INSERT SCREENSHOT HERE`
+<a href="https://shellywell123.github.io/Grind-Boy/build/web/index.html">
+  <img src="https://github.com/Shellywell123/Holey-Moley/blob/main/screengrabs/gif_1.gif" width="175" />
+</a>
+<a href="https://shellywell123.github.io/Grind-Boy/build/web/index.html">
+  <img src="https://github.com/Shellywell123/Holey-Moley/blob/main/screengrabs/gif_2.gif" width="175" />
+</a>
+<a href="https://shellywell123.github.io/Grind-Boy/build/web/index.html">
+  <img src="https://github.com/Shellywell123/Holey-Moley/blob/main/screengrabs/gif_3.gif" width="175" />
+</a>
+<a href="https://shellywell123.github.io/Grind-Boy/build/web/index.html">
+  <img src="https://github.com/Shellywell123/Holey-Moley/blob/main/screengrabs/gif_4.gif" width="175" />
+</a>
 
 ## Play the Game
 
