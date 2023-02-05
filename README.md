@@ -3,16 +3,16 @@ Game made for 2023 Brighton Global Game Jam ["Sticky-Biscuits"](https://globalga
 
 
 <a href="https://shellywell123.github.io/Grind-Boy/build/web/index.html">
-  <img src="https://github.com/Shellywell123/Holey-Moley/blob/main/screengrabs/gif_1.gif" width="175" />
+  <img src="https://github.com/Shellywell123/Holey-Moley/blob/main/screengrabs/gif_1.gif" width="400" />
 </a>
 <a href="https://shellywell123.github.io/Grind-Boy/build/web/index.html">
-  <img src="https://github.com/Shellywell123/Holey-Moley/blob/main/screengrabs/gif_2.gif" width="175" />
+  <img src="https://github.com/Shellywell123/Holey-Moley/blob/main/screengrabs/gif_2.gif" width="400" />
 </a>
 <a href="https://shellywell123.github.io/Grind-Boy/build/web/index.html">
-  <img src="https://github.com/Shellywell123/Holey-Moley/blob/main/screengrabs/gif_3.gif" width="175" />
+  <img src="https://github.com/Shellywell123/Holey-Moley/blob/main/screengrabs/gif_3.gif" width="400" />
 </a>
 <a href="https://shellywell123.github.io/Grind-Boy/build/web/index.html">
-  <img src="https://github.com/Shellywell123/Holey-Moley/blob/main/screengrabs/gif_4.gif" width="175" />
+  <img src="https://github.com/Shellywell123/Holey-Moley/blob/main/screengrabs/gif_4.gif" width="400" />
 </a>
 
 ## Play the Game
